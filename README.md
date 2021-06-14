@@ -1,2 +1,2 @@
-# Movie-Rater
-Django API, React
+# Movie-Rater Backend
+Django API
